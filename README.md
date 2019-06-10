@@ -303,6 +303,7 @@ rp.endpoint = http://localhost:8080
 rp.uuid = 2780ebeb-c976-4aec-a72d-52c71d5fe6f8
 rp.launch = john_TEST_EXAMPLE
 rp.project = my_test_project
+rp.tags = smoke;1.4.6;"some other tag"
 rp.enable = true
 ```
 
